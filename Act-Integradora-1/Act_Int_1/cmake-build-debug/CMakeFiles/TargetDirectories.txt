@@ -1,3 +1,0 @@
-C:/Users/farid/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Projects/Tests/cmake-build-debug/CMakeFiles/Tests.dir
-C:/Users/farid/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Projects/Tests/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/farid/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Projects/Tests/cmake-build-debug/CMakeFiles/rebuild_cache.dir
