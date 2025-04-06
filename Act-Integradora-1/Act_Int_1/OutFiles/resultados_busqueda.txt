@@ -1,0 +1,53 @@
+[12588] Sep 23 12:58:18 80.169.79.65:1150 Failed password for illegal user root
+[4407] Jul 09 16:19:58 142.248.253.242:2871 Illegal user
+[3935] Jul 04 18:49:57 143.19.143.159:6043 Failed password for illegal user guest
+[15279] Oct 17 09:20:30 5.245.203.112:1812 Failed password for illegal user guest
+[4917] Jul 13 21:30:11 183.79.11.2:84 Failed password for illegal user guest
+[6098] Jul 24 18:43:58 75.208.238.89:5602 Failed password for illegal user root
+[11598] Sep 14 20:19:01 68.26.101.230:2896 Illegal user
+[15972] Oct 23 10:17:44 40.210.247.221:6641 Failed password for admin
+[11339] Sep 12 13:43:21 16.234.78.156:7934 Failed password for illegal user guest
+[11099] Sep 10 08:03:06 237.58.196.174:7518 Failed password for illegal user guest
+[3337] Jun 29 14:58:10 69.211.18.169:903 Failed password for admin
+[1187] Jun 11 00:43:15 6.119.125.105:611 Failed password for illegal user guest
+[12568] Sep 23 09:53:39 222.157.47.132:9635 Failed password for illegal user root
+[16635] Oct 29 10:00:26 94.79.41.200:5375 Failed password for admin
+[14011] Oct 05 21:13:26 70.180.145.181:6062 Failed password for illegal user guest
+[3673] Jul 02 12:40:38 17.133.225.196:3466 Failed password for illegal user guest
+[5487] Jul 18 23:56:23 92.58.146.62:5306 Failed password for illegal user guest
+[9804] Aug 28 03:49:27 75.122.246.110:8274 Illegal user
+[9414] Aug 24 21:25:30 127.210.28.33:3723 Failed password for illegal user guest
+[6275] Jul 26 06:28:40 190.85.97.136:1775 Failed password for illegal user root
+[11546] Sep 14 08:40:39 63.59.118.41:5806 Failed password for illegal user guest
+[1440] Jun 13 05:45:21 132.138.2.74:3156 Failed password for illegal user guest
+[9540] Aug 26 01:16:18 33.5.44.12:9945 Illegal user
+[11749] Sep 16 07:23:21 185.14.118.41:5586 Failed password for illegal user root
+[15664] Oct 20 19:02:25 115.193.114.234:77 Failed password for illegal user guest
+[16027] Oct 23 19:35:17 177.100.231.36:5159 Failed password for illegal user guest
+[12255] Sep 20 14:56:00 6.213.225.177:6836 Failed password for admin
+[3136] Jun 27 19:02:19 230.56.14.18:9560 Failed password for admin
+[16408] Oct 27 07:07:18 130.78.227.237:1410 Failed password for illegal user guest
+[16089] Oct 24 06:36:35 23.137.237.58:2608 Illegal user
+[13083] Sep 28 01:55:48 144.116.20.106:1675 Failed password for admin
+[10672] Sep 06 02:48:23 35.230.200.66:1548 Illegal user
+[4501] Jul 10 11:50:45 221.119.70.80:3721 Failed password for illegal user root
+[11823] Sep 16 22:16:51 124.70.234.236:6138 Failed password for illegal user guest
+[13032] Sep 27 15:58:04 47.207.44.82:9409 Failed password for admin
+[863] Jun 08 07:18:43 150.151.245.253:9321 Illegal user
+[3980] Jul 05 06:34:27 173.125.84.130:9022 Failed password for illegal user guest
+[13815] Oct 04 07:33:16 231.44.29.244:3863 Failed password for illegal user root
+[7319] Aug 05 18:55:15 87.48.239.219:8952 Failed password for illegal user guest
+[13123] Sep 28 09:30:13 234.180.72.60:4218 Failed password for illegal user guest
+[10424] Sep 03 21:36:22 81.93.164.151:5190 Failed password for admin
+Fecha no encontrada: Sep 29 06:17:01
+[11005] Sep 09 08:23:34 94.136.213.216:2498 Failed password for illegal user guest
+[14692] Oct 12 04:21:12 172.228.29.56:4717 Failed password for admin
+[16529] Oct 28 11:27:23 127.17.120.178:4427 Failed password for illegal user guest
+[10696] Sep 06 06:53:00 222.117.6.133:8910 Failed password for illegal user root
+[15400] Oct 18 10:39:56 181.86.245.221:2435 Failed password for admin
+[9978] Aug 29 14:58:27 166.247.153.144:4513 Illegal user
+[2197] Jun 19 12:02:33 123.78.19.174:6900 Failed password for illegal user root
+[16808] Dec 29 10:38:01 97.111.191.229:2686 Failed password for illegal user guest
+Busqueda del primer par de registros con 80 dias de diferencia: 
+[330] Jun 03 16:06:11 117.29.227.162:7727 Illegal user
+[9165] Aug 22 16:06:11 67.4.118.149:7066 Failed password for illegal user root

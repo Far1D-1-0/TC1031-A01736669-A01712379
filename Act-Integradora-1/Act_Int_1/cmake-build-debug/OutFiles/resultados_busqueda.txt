@@ -1,0 +1,5 @@
+[1] Jun 01 00:22:36 49.121.182.153:6021 Failed password for illegal user guest
+Fecha no encontrada: Jun 01 08:23:52
+Busqueda del primer par de registros con 90 dias de diferencia: 
+[1882] Jun 16 19:39:42 134.50.228.152:7845 Illegal user
+[11594] Sep 14 19:39:42 159.86.44.192:7528 Failed password for illegal user guest
